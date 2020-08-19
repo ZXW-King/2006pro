@@ -1,7 +1,7 @@
 import a
 rrrr
 <<<<<<< HEAD
-eeee
+eeeer
 =======
 oooo
 >>>>>>> joy
